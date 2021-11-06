@@ -1,0 +1,31 @@
+body {
+    background-color: #111111;
+    color: rgb(146, 94, 199);
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.jumbotron {
+    background-image: url("../images/maxresdefault_new.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+}  
+.jumbotron h1{
+	color:#12031b;
+}
+.jumbotron h2{
+	color:#240e20;
+}
+
+.well{
+    background:#111111
+}
+.panel-body h6{
+     color: #111111 !important;
+}
+.panel-primary>.panel-heading {
+    background: #111111;
+
+}
+.panel-primary{
+border-color: rgb(146, 94, 199);
+}
