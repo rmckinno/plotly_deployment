@@ -1,5 +1,5 @@
 body {
-    background-color: #111111;
+    background-color: #130f30;
     color: rgb(146, 94, 199);
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -17,13 +17,13 @@ body {
 }
 
 .well{
-    background:#111111
+    background:#130f30
 }
 .panel-body h6{
-     color: #111111 !important;
+     color: #130f30 !important;
 }
 .panel-primary>.panel-heading {
-    background: #111111;
+    background: #130f30;
 
 }
 .panel-primary{
