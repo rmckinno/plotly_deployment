@@ -11,3 +11,5 @@ The purpose of this project is to create an interactive webpage using JavaScript
 - HTML
 - Bootstrap
 - CSS
+
+![dashboard](static/images/dashboard.png)
